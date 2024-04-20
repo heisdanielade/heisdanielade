@@ -1,4 +1,12 @@
-### Hi there 👋
+### Cześć, Jestem Daniel 👋🏼
+
+I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about crafting innovative digital encounters.
+
+  • Take a look at my <a href="https://www.heisdanielade.com">website</a> to lean more about me.
+  • D
+  • r
+  • r
+      
 
 <!--
 **heisdanielade/heisdanielade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
