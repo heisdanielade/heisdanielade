@@ -18,10 +18,9 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
  
 ## ✨ Fun Facts 
 
+- I speak Polish (ale trochę) 😅
 - When I'm not coding, you can find me exploring new hiking trails or experimenting with photography.
 - Call of Duty: Mobile is my favorite video game.
-- As a kid, I wanted to be a Medical Doctor.
-
 
 ## 📫 Contact
 
