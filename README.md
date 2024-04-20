@@ -1,10 +1,4 @@
 
-  • 
-  • D
-  • r
-  • r
-      
-
 ### Cześć, Jestem Daniel 👋🏼
 
 I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about crafting innovative digital encounters.
