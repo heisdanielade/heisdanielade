@@ -1,24 +1,34 @@
-### Cześć, Jestem Daniel 👋🏼
 
-I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about crafting innovative digital encounters.
-
-  • Take a look at my <a href="https://www.heisdanielade.com">website</a> to lean more about me.
+  • 
   • D
   • r
   • r
       
 
-<!--
-**heisdanielade/heisdanielade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cześć, Jestem Daniel 👋🏼
 
-Here are some ideas to get you started:
+I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about crafting innovative digital encounters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Check out my [website](https://www.heisdanielade.com/) to learn more about me.
+- Explore my [gallery](https://www.heisdanielade/gallery/) where I share intriguing photos of the earth.
+ 
+## 📦 Toolbox
+
+**Front-end Development:** `React` `Next.js` `JavaScript` `Tailwind`
+
+**Backend Development:** `Python` `Django` `DjangoREST` `Postgres` 
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Others:** `MS Excel` `Jira` `Postman` `Scrum`
+ 
+## ✨ Fun Facts 
+
+- Call of Duty: Mobile is my favorite video game.
+- As a kid, I wanted to be a Medical Doctor.
+- I love hiking.
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/heisdanielade/). 
+ 
