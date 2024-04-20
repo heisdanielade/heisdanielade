@@ -18,11 +18,12 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
  
 ## ✨ Fun Facts 
 
+- When I'm not coding, you can find me exploring new hiking trails or experimenting with photography.
 - Call of Duty: Mobile is my favorite video game.
 - As a kid, I wanted to be a Medical Doctor.
-- I love hiking.
+
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/heisdanielade/). 
+ For a quick response, Send me an [Email](danieladeofficial@gmail.com). 
  
