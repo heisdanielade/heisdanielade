@@ -25,5 +25,5 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
 
 ## 📫 Contact
 
- For a quick response, Send me an [Email](danieladeofficial@gmail.com). 
+ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
  
