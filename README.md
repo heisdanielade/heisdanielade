@@ -27,4 +27,4 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
  For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
  
 ## 🤖 Current Project
-- Command-line Database Manager
+- Command-line Employee Database Manager
