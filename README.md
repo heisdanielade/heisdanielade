@@ -3,8 +3,9 @@
 
 I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about crafting innovative digital encounters.
 
+- Currently, I study Computer Science and Econometrics at the University of Zielona Góra.
 - Check out my [website](https://www.heisdanielade.com/) to learn more about me.
-- Explore my [gallery](https://www.heisdanielade/gallery/) where I share intriguing photos of the earth.
+- Explore my [gallery](https://www.heisdanielade.com/gallery/) where I share intriguing photos of the earth.
  
 ## 📦 Toolbox
 
@@ -19,8 +20,8 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
 ## ✨ Fun Facts 
 
 - I speak Polish (ale trochę) 😅
-- Call of Duty: Mobile is my favorite video game.
-- When I'm not coding, you can find me exploring new hiking trails or experimenting with photography.
+- Call of Duty is my favorite video game.
+- When I'm not coding, you can find me experimenting with photography.
 
 ## 📫 Contact
 
@@ -28,3 +29,4 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
  
 ## 🤖 Current Project
 - Command-line Employee Database Manager
+
