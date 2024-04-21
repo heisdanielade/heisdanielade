@@ -11,7 +11,7 @@ I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about c
 
 **Front-end Development:** `React` `Next.js` `JavaScript` `Tailwind`
 
-**Backend Development:** `Python` `Django` `DjangoREST` `Postgres` 
+**Back-end Development:** `Python` `Django` `DjangoREST` `Postgres` 
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
