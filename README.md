@@ -4,8 +4,8 @@
 I'm a 19-year-old developer based in Poland, and I'm deeply enthusiastic about crafting innovative digital encounters.
 
 - Currently, I study Computer Science and Econometrics at the University of Zielona Góra.
-- Check out my [website](https://www.heisdanielade.com/) to learn more about me.
-- Explore my [gallery](https://www.heisdanielade.com/gallery/) where I share intriguing photos of the earth.
+- Check out my [website](https://www.heisdanielade.tech/) to learn more about me.
+- Explore my [gallery](https://www.heisdanielade.tech/gallery/) where I share intriguing photos of the earth.
  
 ## 📦 Toolbox
 
