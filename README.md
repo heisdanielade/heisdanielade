@@ -1,7 +1,7 @@
 
 ### Cześć, Jestem Daniel 👋🏼
 
-I specialise data analytics and web development and I'm based in Poland, I'm deeply enthusiastic about crafting innovative digital encounters.
+Based in Poland, I specialise in Data Analytics and Full-Stack Web Development and I'm deeply enthusiastic about crafting innovative digital encounters.
 
 - Currently, I study Computer Science and Econometrics at the University of Zielona Góra.
 - Check out my [website](https://www.heisdanielade.tech/) to learn more about me.
