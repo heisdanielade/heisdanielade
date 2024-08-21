@@ -1,28 +1,26 @@
 
-### Cześć, Jestem Daniel 👋🏼
+### Hi there, I'm Daniel 👋🏼
 
-Based in Poland, I specialise in Data Analytics and Full-Stack Web Development and I'm deeply enthusiastic about crafting innovative digital encounters.
+I specialise in Data Analytics and Front-End Web Development and I'm deeply enthusiastic about crafting innovative digital encounters.
 
-- Currently, I study Computer Science and Econometrics at the University of Zielona Góra.
 - Check out my [website](https://www.heisdanielade.tech/) to learn more about me.
 
  
 ## 📦 Toolbox
 
-**Front-end Development:** `React` `Next.js` `JavaScript` `Tailwind`
+**Main:** `Python` `SQL` `MS Excel` `Django`
 
-**Back-end Development:** `Python` `Django` `DjangoREST` `Postgres` 
+**Front-end Development:** `React js` `JavaScript` `Tailwind CSS`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Others:** `MS Excel` `Jira` `Postman` `Scrum`
+**Others:** `Quality Assurance` `Quality Control` `Customer Relationship Management` 
  
 
 ## 📫 Contact
 
  For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
  
-## 🤖 Current Project
+## 🤖 Current Project(s)
 - Employee Data Management System
-- My Portfolio Website
 
