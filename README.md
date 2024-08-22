@@ -3,7 +3,7 @@
 
 I specialise in Data Analytics and Front-End Web Development and I'm deeply enthusiastic about crafting innovative digital encounters.
 
-- Check out my [website](https://www.heisdanielade.tech/) to learn more about me.
+- Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
  
 ## 📦 Toolbox
