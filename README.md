@@ -8,7 +8,7 @@ I specialise in Data Analytics and Front-End Web Development and I'm deeply enth
  
 ## 📦 Toolbox
 
-**Main:** `Python` `SQL` `MS Excel` `Django`
+**Main:** `Python` `SQL` `MS Excel` `Tableau`
 
 **Front-end Development:** `React js` `JavaScript` `Tailwind CSS`
  
