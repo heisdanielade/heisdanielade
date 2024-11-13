@@ -8,19 +8,16 @@ I specialise in Data Analytics and Front-End Web Development and I'm deeply enth
  
 ## 📦 Toolbox
 
-**Main:** `Python` `SQL` `MS Excel` `Tableau`
-
-**Front-end Development:** `React js` `JavaScript` `Tailwind CSS`
+**Main:** `Java` `SQL & DBMS` `Python`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Others:** `Quality Assurance` `Quality Control` `Customer Relationship Management` 
+**Others:** `Tailwind CSS` `Quality Assurance` `Quality Control` `Customer Relationship Management` 
  
 
 ## 📫 Contact
+For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
- For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
  
 ## 🤖 Current Project(s)
-- Employee Data Management System
-
+- Deepening my Java Expertise
