@@ -1,12 +1,12 @@
 
-### Hi there, I'm Daniel 👋🏼
+## Hi there, I'm Daniel 👋🏼
 
-I specialise in Data Analytics and Front-End Web Development and I'm deeply enthusiastic about crafting innovative digital encounters.
+I'm a second-year Computer Science & Econometrics student currently learning software development & testing with Java. I am deeply enthusiastic about crafting innovative digital encounters.
 
-- Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
+Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
  
-## 📦 Toolbox
+### 📦 Toolbox
 
 **Main:** `Java` `SQL & DBMS` `Python`
  
@@ -15,9 +15,9 @@ I specialise in Data Analytics and Front-End Web Development and I'm deeply enth
 **Others:** `Tailwind CSS` `Quality Assurance` `Quality Control` `Customer Relationship Management` 
  
 
-## 📫 Contact
+### 📫 Contact
 For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
  
-## 🤖 Current Project(s)
+### 🤖 Current Project(s)
 - Deepening my Java Expertise
