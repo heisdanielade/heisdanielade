@@ -8,11 +8,11 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
  
 ## 📦 Toolbox
-**Main:** `Java` `SQL & DBMS` `Python`
+**Main:** `Python` `SQL & DBMS` `Java`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Front-end development:** `HTML` `CSS` `Tailwind CSS`
 
-**Others:** `Tailwind CSS` `Quality Assurance` `Quality Control` `CRM` 
+**Others:** `Quality Assurance` `Quality Control` `Version Control`
  
 
 
@@ -22,4 +22,4 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
  
 ## 🤖 Current Project(s)
-- Deepening my Java Expertise
+- Deepening my Python & SQL Expertise
