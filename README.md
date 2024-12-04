@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Daniel 👋🏼
 
-I'm a 2nd-year Computer Science & Econometrics student currently learning software development & testing with Java. I am deeply enthusiastic about crafting innovative digital encounters.
+Second-year CS & Econometrics student, enhancing skills in Python, Java, data analysis, and back-end web development. Passionate about contributing to innovative software projects..
 
 Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
