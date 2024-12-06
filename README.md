@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Daniel 👋🏼
 
-Second-year CS & Econometrics student, enhancing skills in Java, Python, Data Analysis, and Back-end Web Development. Passionate about contributing to innovative software projects..
+Second-year CS & Econometrics student, enhancing skills in Java, Python, Data Analysis, and Back-end Web Development. Passionate about contributing to innovative software projects.
 
 Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
@@ -12,7 +12,7 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
  
 **Front-end development:** `HTML` `CSS` `Tailwind CSS`
 
-**Others:** `Quality Assurance` `Quality Control` `Version Control`
+**Others:** `Quality Assurance` `Quality Control` `Software Testing` `Version Control`
  
 
 
