@@ -8,7 +8,7 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
  
 ## 📦 Toolbox
-**Main:** `Python` `SQL & DBMS` `Java`
+**Main:** `Java` `Python` `SQL & DBMS`
  
 **Front-end development:** `HTML` `CSS` `Tailwind CSS`
 
@@ -22,4 +22,4 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
  
 ## 🤖 Current Project(s)
-- Deepening my Python & SQL Expertise
+- Deepening my Java & SQL Expertise
