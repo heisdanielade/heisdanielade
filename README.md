@@ -20,6 +20,12 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
 
- 
+
 ## 🤖 Current Project(s)
 - Deepening my Java & SQL Expertise
+
+
+## ✨ Fun Facts 
+- I speak Polish (ale trochę) 😅
+- Call of Duty is my favorite video game
+- When I'm not coding, you can find me experimenting with photography.
