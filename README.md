@@ -28,4 +28,4 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 ## ✨ Fun Facts 
 - I speak Polish (ale trochę) 😅
 - Call of Duty is my favorite video game
-- When I'm not coding, you can find me experimenting with photography.
+- I love experimenting with photography
