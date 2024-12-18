@@ -12,7 +12,7 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
  
 **Front-end development:** `HTML` `CSS` `Tailwind CSS`
 
-**Others:** `Quality Assurance` `Quality Control` `Software Testing` `Version Control`
+**Others:** `Quality Assurance` `Software Testing` `Version Control`
  
 
 
@@ -27,5 +27,4 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
 ## ✨ Fun Facts 
 - I speak Polish (ale trochę) 😅
-- Call of Duty is my favorite video game
 - I love experimenting with photography
