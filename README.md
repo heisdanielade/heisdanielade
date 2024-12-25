@@ -26,5 +26,5 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
 
 ## ✨ Fun Facts 
-- I speak Polish (ale trochę) 😅
+- I speak Polish (ale tylko trochę) 😅
 - I love experimenting with photography
