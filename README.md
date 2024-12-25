@@ -22,7 +22,7 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
 
 ## 🤖 Current Project(s)
-- Deepening my Java & SQL Expertise
+- Contact Manager in JAVA
 
 
 ## ✨ Fun Facts 
