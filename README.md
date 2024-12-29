@@ -14,6 +14,8 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
 **Others:** `Quality Assurance` `Software Testing` `Version Control`
  
+![heisdanielade's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisdanielade&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heisdanielade&layout=compact&theme=radical)
 
 
 ## 📫 Contact
