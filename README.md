@@ -5,6 +5,7 @@ Second-year Computer Science & Econometrics student, enhancing skills in Java, S
 
 Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 
+For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
 ## 📦 Toolbox
 **Main:** `Java` `SQL & DBMS` `Python`
@@ -22,7 +23,4 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 - I speak Polish (ale tylko trochę) 😅
 - I love experimenting with photography
 
-
-## 📫 Contact
-For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
