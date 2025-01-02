@@ -16,7 +16,7 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
 
 ## 🤖 Current Project(s)
-- Contact Manager in Java
+- Contact Manager for efficiently managing and organizing personal or professional contacts. **JAVA | SQL**
 
 
 ## ✨ Fun Facts 
