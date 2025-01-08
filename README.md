@@ -10,7 +10,7 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 ## 📦 Toolbox
 **Main:** `Java` `SQL & DBMS` 
 
-**Front-end development:** `HTML` `CSS` `Tailwind CSS` `JavaScript` `VueJs`
+**Front-end development:** `Tailwind CSS` `JavaScript` `VueJs`
 
 **Others:** `Python` 
 
