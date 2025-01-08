@@ -8,11 +8,11 @@ Check out my [website](https://www.heisdanielade.xyz/) to learn more about me.
 For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
 ## 📦 Toolbox
-**Main:** `Java` `SQL & DBMS` `Python`
+**Main:** `Java` `SQL & DBMS` 
 
 **Front-end development:** `HTML` `CSS` `Tailwind CSS` `JavaScript` `VueJs`
 
-**Others:** `Quality Assurance` `Software Testing` `Version Control`
+**Others:** `Python` 
 
 
 ## 🤖 Current Project(s)
