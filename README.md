@@ -15,7 +15,7 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 **Others:** `Python` 
 
 ## 🤖 Current Project(s)
-- Pet care app **VueJs | TailwindCSS | SpringBoot**
+- [Pet Care app](https://pamietampsa.netlify.app/): **VueJs | TailwindCSS | SpringBoot**
 
 ## ✨ Fun Facts 
 - I speak Polish (ale tylko trochę) 😅
