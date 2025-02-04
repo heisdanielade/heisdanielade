@@ -8,6 +8,7 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 
 ## 📦 Arsenal
 **Languages:** `Java` `JavaScript` `Python` `SQL` `HTML` `CSS`
+
 **Technologies:** `Tailwind CSS` `VueJS` `Spring Boot`
 
 ## 🤖 Current Project(s)
