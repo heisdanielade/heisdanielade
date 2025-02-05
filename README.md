@@ -13,7 +13,7 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 **Technologies:** `Tailwind CSS` `VueJS` `Spring Boot`
 
 ## 🤖 Current Project(s)
-- [Pet Care app](https://pamietampsa.netlify.app/) :- **VueJS | Tailwind CSS | Spring Boot**
+- [Pet Care app](https://pamietampsa.netlify.app/) : **VueJS | Tailwind CSS | Spring Boot**
 
 ## ✨ Fun Facts 
 - I speak Polish (ale tylko trochę) 😅
