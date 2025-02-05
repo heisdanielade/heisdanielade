@@ -4,6 +4,7 @@
 A Second-year Computer Science and Econometrics student, enhancing skills in Frontend and Backend Development. Passionate about contributing to innovative software projects.
 
 Check out my [website](https://www.heisdanielade.xyz/) (inspired by Spider-Man: Across the Spider-Verse).
+
 For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
 ## 📦 Arsenal
