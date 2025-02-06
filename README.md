@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Daniel 👋🏼
 
-A Second-year Computer Science and Econometrics student, enhancing skills in frontend and backend Development. Passionate about contributing to innovative software projects.
+A 2nd-year Computer Science and Econometrics student, enhancing skills in frontend and backend Development. Passionate about contributing to innovative software projects.
 
 Check out my [website](https://www.heisdanielade.xyz/) (inspired by Spider-Man: Across the Spider-Verse).
 
