@@ -8,7 +8,10 @@ Check out my [website](https://www.heisdanielade.xyz/) (inspired by Spider-Man: 
 For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
 ## 📦 Arsenal
-**Languages:** `Java` `JavaScript` `Python` `SQL` `HTML` `CSS`
+**Languages:** 
+![tailwind](https://img.shields.io/badge/tailwindcss-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+`Java` `JavaScript` `Python` `SQL` `HTML` `CSS`
 
 **Technologies:** `Tailwind CSS` `VueJS` `Spring Boot`
 
