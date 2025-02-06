@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Daniel 👋🏼
 
-A Second-year Computer Science and Econometrics student, enhancing skills in Frontend and Backend Development. Passionate about contributing to innovative software projects.
+A Second-year Computer Science and Econometrics student, enhancing skills in frontend and backend Development. Passionate about contributing to innovative software projects.
 
 Check out my [website](https://www.heisdanielade.xyz/) (inspired by Spider-Man: Across the Spider-Verse).
 
@@ -22,8 +22,8 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 
-## 🤖 Current Project(s)
-- [Pet Care app](https://pamietampsa.netlify.app/) : **VueJS | Tailwind CSS | Spring Boot**
+## 🤖 Working On
+- [Pet Care app](https://pamietampsa.netlify.app/) built with **VueJS, Tailwind CSS & Spring Boot**
 
 ## ✨ Fun Facts 
 - I speak Polish (ale tylko trochę) 😅
