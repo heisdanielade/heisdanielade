@@ -19,8 +19,8 @@ For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
+**Others:** `Python` `Git`
 
 ## 🤖 Working On
 - [Pet Care app](https://pamietampsa.netlify.app/) built with **VueJS, Tailwind CSS & Spring Boot**
