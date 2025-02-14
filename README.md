@@ -3,7 +3,7 @@
 
 A 2nd-year Computer Science and Econometrics student with experience in QA and Software testing. Currently, I am enhancing my skills in backend development with Java and Spring Framework. Passionate about contributing to innovative software projects.
 
-Check out my [website](https://www.heisdanielade.xyz/) (inspired by Spider-Man: Across the Spider-Verse).
+Check out my [website](https://www.heisdanielade.xyz/) .
 
 For a quick response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
 
