@@ -22,7 +22,7 @@ For a faster response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
 
-**Others:** `SQL` `Python` `Git`
+**Others:** `SQL` `Python` `Git` `Postman` 
 
 ## 🤖 Working On
 - [Pet Care app](https://pamietampsa.netlify.app/) built with **VueJS, Tailwind CSS & Spring Boot**
