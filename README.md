@@ -1,11 +1,9 @@
 
 ## Hi there, I'm Daniel 👋🏼
 
-Second-year Computer Science and Econometrics student with experience in QA and Software testing. Currently, I am enhancing my skills in backend development with Java and Spring Framework. Passionate about contributing to innovative software projects.
+Second-year Computer Science and Econometrics student with QA and Software testing experience. Currently focused on backend development with Java and Spring Boot.
 
-Check out my [website](https://www.heisdanielade.xyz/) .
-
-For a faster response, Send me an [Email](mailto:danieladeofficial@gmail.com). 
+Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com). 
 
 ## 📦 Arsenal
 **Backend Development:** 
@@ -21,14 +19,10 @@ For a faster response, Send me an [Email](mailto:danieladeofficial@gmail.com).
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
-
 **Others:** `SQL` `Python` `Git` `Postman` 
 
 ## 🤖 Working On
-- [Pet Care app](https://pamietampsa.netlify.app/) built with **VueJS, Tailwind CSS & Spring Boot**
+[PamiętamPsa](https://pamietampsa.netlify.app/) - Pet care app built with **Spring Boot & Vue.js**.
 
-## ✨ Fun Facts 
-- I speak Polish (ale tylko trochę) 😅
-- I love experimenting with photography
 
 
