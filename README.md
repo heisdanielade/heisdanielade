@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Daniel 👋🏼
 
-Second-year Computer Science and Econometrics student with QA and Software testing experience. Currently focused on backend development with Java and Spring Boot.
+2nd-year Computer Science and Econometrics student with QA and Software testing experience. Currently focused on backend development with Java and Spring Boot.
 
 Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com). 
 
