@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Daniel 👋🏼
 
-A Computer Science and Econometrics student with hands-on experience in QA and software testing, and a strong focus on backend development using Java and Spring Boot.
+Computer Science and Econometrics student with hands-on experience in QA and software testing, and a strong focus on backend development using Java and Spring Boot.
 
 Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com). 
 
