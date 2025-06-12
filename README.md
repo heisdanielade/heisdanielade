@@ -22,7 +22,7 @@ Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com).
 **Others:** `SQL` `Python` `Git` `Postman` 
 
 ## 🤖 Working On
-[PamiętamPsa](https://pamietampsa.netlify.app/) - Pet care app built with **Spring Boot & Vue.js**.
+[PamiętamPsa](https://pamietampsa.netlify.app/) - Pet care app
 
 
 
