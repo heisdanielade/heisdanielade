@@ -19,7 +19,7 @@ Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com).
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 
-**Others:** `SQL` `Python` `Git` `Postman` 
+**Others:** `JUnit` `SQL` `Python`
 
 ## 🤖 Working On
 [PamiętamPsa](https://pamietampsa.netlify.app/) - Pet care app
