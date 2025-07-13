@@ -25,7 +25,7 @@ Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com).
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) 
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
-**Others:** `SQL` `Pytest`
+**Others:** `SQL` `Pytest` `Git`
 
 ## 🤖 Working On
 [PamiętamPsa](https://pamietampsa.netlify.app/) - Pet care app
