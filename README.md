@@ -1,9 +1,9 @@
 
 ## Hi there, I'm Daniel 👋🏼
 
-Computer Science and Econometrics student specializing in backend development with hands-on experience in software QA testing; someone has to piss off the devs🥸. Building smart and scalable systems.
+Computer Science and Econometrics student specializing in backend development with hands-on experience in software QA testing.
 
-Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com). 
+Want to get in touch? send me an [email](mailto:danieladeofficial@gmail.com). 
 
 ## 📦 Arsenal
 **Backend Development:** 
@@ -26,9 +26,6 @@ Want to get in touch? send me an [Email](mailto:danieladeofficial@gmail.com).
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
 **Others:** `SQL` `Pytest` `Git` `Docker`
-
-## 🤖 Working On
-[PamiętamPsa](https://pamietampsa.netlify.app/) - Pet care app
 
 
 
