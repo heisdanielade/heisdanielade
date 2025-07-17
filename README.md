@@ -1,11 +1,11 @@
 
-## Hi there, I'm Daniel 👋🏼
+## Hi there,👋🏼
 
-Computer Science and Econometrics student specializing in backend development with hands-on experience in software QA testing.
+I'm a Computer Science and Econometrics student specializing in backend development with hands-on experience in software QA testing.
 
-Want to get in touch? send me an [email](mailto:danieladeofficial@gmail.com). 
+Want to get in touch? send me an [email](mailto:danieladeofficial@gmail.com) 
 
-## 📦 Arsenal
+## Arsenal
 **Backend Development:** 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
