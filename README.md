@@ -1,28 +1,14 @@
 
-## Hi there,👋🏼
 
-I'm a Computer Science and Econometrics student specializing in backend development with hands-on experience in software QA testing.
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1720513922/94536/monkey_side_eyes.gif?1720513922" width="25">
 
-Want to get in touch? send me an [email](mailto:danieladeofficial@gmail.com) .
+I’m [**Daniel**](https://www.heisdanielade.xyz), a backend developer with hands-on experience in software QA testing.
 
-## Arsenal
-**Backend Development:** 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+Currently, I am a third year Computer Science and Econometrics student in Poland.
 
-**Frontend Development:**
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+Want to get in touch? send me an [email](mailto:danieladeofficial@gmail.com).
 
-**Data Analysis:** 
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) 
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-
-**Others:** `SQL` `Pytest` `Git` `Docker`
-
----
-
+#### Working on:
+* [PamiętamPsa](https://github.com/heisdanielade/api-petcare) - Pet care tracker
+* [Log Analyzer](https://github.com/heisdanielade/tool-log-analyzer) - Logs analyzer tool
+* [Dev Notes](https://github.com/heisdanielade/dev-notes) - Useful docs for developers
