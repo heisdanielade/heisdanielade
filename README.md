@@ -4,7 +4,7 @@
 
 I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a backend developer with hands-on experience in software QA testing.
 
-Currently, I am a final year Computer Science and Econometrics student in Poland.
+Currently, I am a final year Computer Science and Econometrics student.
 
 Want to get in touch? send me an _[email](mailto:danieladeofficial@gmail.com)_.
 
