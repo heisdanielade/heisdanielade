@@ -1,14 +1,16 @@
 
-
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1720513922/94536/monkey_side_eyes.gif?1720513922" width="25">
+I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a CS & Econometrics undergraduate and backend developer focusing on optimization, algorithms, and scalable systems.
 
-I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a backend developer with hands-on experience in software QA testing.
+#### 📚 Research Interests
+`Algorithm Design` · `Distributed Systems` · `Automated Testing` · `System Performance`
 
-Currently, I am a final year Computer Science and Econometrics student.
+#### 🔬 Current Work
+* [PetCare Tracker ↗](https://pamietampsa.netlify.app) - Reminder & care system for pets
+* [Log Analyzer ↗](https://github.com/heisdanielade/tool-log-analyzer) - CLI tool for log inspection & analysis
+* [Dev Notes ↗](https://github.com/heisdanielade/dev-notes) - Technical notes & developer documentation
 
-Want to get in touch? send me an _[email](mailto:danieladeofficial@gmail.com)_.
+#### ⚙️ Tech Stack
+`Python` · `FastAPI` · `SQL` · `PostgreSQL` · `Docker` · `Pytest`
 
-#### Working on:
-* [PamiętamPsa](https://pamietampsa.netlify.app) - Pet care tracker
-* [Log Analyzer](https://github.com/heisdanielade/tool-log-analyzer) - CLI Log analyzer
-* [Dev Notes](https://github.com/heisdanielade/dev-notes) - Useful docs for developers
+📫 **Reach out via [email](mailto:danieladeofficial@gmail.com)**
