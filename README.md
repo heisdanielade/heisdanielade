@@ -1,5 +1,5 @@
 
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1720513922/94536/monkey_side_eyes.gif?1720513922" width="25">
+### Hi there! 😉
 I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a CS & Econometrics undergraduate and backend developer focusing on optimization, algorithms, and scalable systems.
 
 #### 📚 Research Interests
