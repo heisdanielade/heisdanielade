@@ -3,7 +3,7 @@
 I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a CS & Econometrics undergraduate and backend developer focusing on optimization, algorithms, and scalable systems.
 
 #### 📚 Research Interests
-`Algorithm Design` · `Distributed Systems` · `Automated Testing` · `System Performance`
+`Algorithm Design` · `Distributed Systems` · `System Performance`
 
 #### 🔬 Current Work
 * [PetCare Tracker ↗](https://pamietampsa.netlify.app) - Reminder & care system for pets
