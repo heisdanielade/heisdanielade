@@ -7,10 +7,9 @@ I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a CS & Econometr
 
 #### 🔬 Current Work
 * [PetCare Tracker ↗](https://pamietampsa.netlify.app) - Reminder & care system for pets
-* [Log Analyzer ↗](https://github.com/heisdanielade/tool-log-analyzer) - CLI tool for log inspection & analysis
-* [Dev Notes ↗](https://github.com/heisdanielade/dev-notes) - Technical notes & developer documentation
+* [Log Analyzer ↗](https://github.com/heisdanielade/tool-log-analyzer) - Python package for log inspection & analysis
 
 #### ⚙️ Tech Stack
-`Python` · `FastAPI` · `SQL` · `PostgreSQL` · `Docker` · `Pytest`
+`Python` · `FastAPI` · `SQL` · `PostgreSQL` · `Docker` · `Pytest` · `Numpy` · `Pandas`
 
 📫 **Reach out via [email](mailto:danieladeofficial@gmail.com)**
