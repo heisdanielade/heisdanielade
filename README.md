@@ -1,9 +1,9 @@
 
 ### Hi there! 😉
-I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a CS and Econometrics undergraduate and backend developer specializing in optimization and scalable systems, with a QA background that gave me a strong foundation in building reliable software. I also have a keen interest in technology-driven finance applications.
+I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a Computer Science and Econometrics undergraduate and backend developer focused on building optimized, scalable systems. My QA background strengthens my approach to reliability, and I have a strong interest in finance-driven applications.
 
 #### 📚 Researching
-`Cloud Computing` · `Distributed Systems` · `Optimization`
+`Databases` · `Distributed Systems` · `Optimization`
 
 #### ⚙️ Working with
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) · 
