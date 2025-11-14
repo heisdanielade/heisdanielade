@@ -6,6 +6,7 @@ I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a CS and Econome
 `Cloud Computing` · `Distributed Systems` · `Optimization`
 
 #### ⚙️ Working with
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) · 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) · 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) · 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
