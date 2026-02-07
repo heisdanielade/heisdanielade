@@ -9,6 +9,6 @@ I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a Computer Scien
 
 **Medium:** [@heisdanielade](https://medium.com/@heisdanielade)
 
-   - **Latest:** [Why Fintech can't just DELETE users](https://medium.com/@heisdanielade/why-fintech-cant-just-delete-users-designing-gdpr-compliant-systems-f3a66200c4bf)
+   - **Latest:** [Stabilising PostgreSQL Enum Migrations in Production Systems](https://medium.com/@heisdanielade/stabilising-postgresql-enum-migrations-in-production-systems-8d68021849b3)
 
 📫 **Reach out via [email](mailto:danieladeofficial@gmail.com)**
