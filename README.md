@@ -1,9 +1,9 @@
 
 ### Hi there! 😉
-I’m [**Daniel**](https://www.linkedin.com/in/heisdanielade/), a Computer Science and Econometrics undergraduate focused on backend engineering, algorithms, and combinatorial optimisation. With experience in software quality and development, I build reliable systems and apply theory to real-world systems.
+I’m [**Daniel**](https://heisdanielade.me/), a Product Engineer and Computer Science & Econometrics graduate who cares about how products are designed, built, and improved. I specialize in understanding user problems deeply enough to solve them at the engineering level — then building the systems and processes to do it.
 
 ### 📚 Interests
-`Algorithms & Optimisation` · `AI & ML` · `Databases`
+`Software Systems` · `UX Research` · `Algorithms & Optimisation` · `System Design`
 
 ### ✍️ Writing
 
